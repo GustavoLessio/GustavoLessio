@@ -21,7 +21,7 @@ Education:
   Expected Year of Graduation: 2026
     Relevant projects:
         •Developed a system to monitor air quality.
-        •Created a website for a barbershop.
+        •Created a website for a dealership.
         •Built a point management system for schools.
   
   
