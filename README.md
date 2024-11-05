@@ -1,16 +1,27 @@
-## Hi there 👋
+I'm The Lessio 🦇
 
-<!--
-**GustavoLessio/GustavoLessio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate person when talking about creating efficient and user-friendly applications that solve real problems. I began in technology with a curiosity for programming and have evolved into a career focused on enhancing user experiences through innovative solutions.
 
-Here are some ideas to get you started:
+Skills:
+  •JavaScript
+  •Python
+  •HTML5
+  •CSS
+  •MySQL
+  •MongoDB
+  •AWS
+  •FlutterFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professional Experience:
+  •Freelance Web Developer
+    Developed websites for various clients, focusing on user experience and responsive design. Collaborated with clients to understand their needs and deliver customized solutions
+
+Education:
+  Bachelor's Degree in [Information System] (Currently Enrolled)
+  Expected Year of Graduation: 2026
+    Relevant projects:
+        •Developed a system to monitor air quality.
+        •Created a website for a barbershop.
+        •Built a point management system for schools.
+  
+  
