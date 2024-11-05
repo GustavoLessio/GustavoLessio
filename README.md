@@ -17,7 +17,7 @@ Professional Experience:
     Developed websites for various clients, focusing on user experience and responsive design. Collaborated with clients to understand their needs and deliver customized solutions
 
 Education:
-  Bachelor's Degree in [Information System] (Currently Enrolled)
+  Bachelor's Degree in Information System (Currently Enrolled)
   Expected Year of Graduation: 2026
     Relevant projects:
         •Developed a system to monitor air quality.
