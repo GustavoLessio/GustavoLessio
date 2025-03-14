@@ -1,4 +1,4 @@
-I'm Gustavo
+
 
 I am a passionate person when talking about creating efficient and user-friendly applications that solve real problems. I began in technology with a curiosity for programming and have evolved into a career focused on enhancing user experiences through innovative solutions.
 
